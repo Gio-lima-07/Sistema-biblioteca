@@ -4,7 +4,7 @@ Um sistema para biblioteca para gerenciar a entrada e a saída de livro
 
 
 ## Desenvolvedor
- Giovana Lima da Rocha.
+ Giovanna Lima da Rocha.
 
 **professoras:** Érika A. Sardinha 
 **Turma:** 2º Ano TEC — Desenvolvimento de Sistemas  
